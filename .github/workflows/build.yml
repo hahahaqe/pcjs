@@ -21,16 +21,7 @@ jobs:
     - name: Install dependencies
       run: bundle install
     
-    - name: Clone disks repos
-      run: |
-        mkdir -p disks/cdroms
-        git clone https://github.com/jeffpar/pcjs-diskettes.git disks/diskettes
-        git clone https://github.com/jeffpar/pcjs-gamedisks.git disks/gamedisks
-        git clone https://github.com/jeffpar/pcjs-miscdisks.git disks/miscdisks
-        git clone https://github.com/jeffpar/pcjs-pcsigdisks.git disks/pcsigdisks
-        git clone https://github.com/jeffpar/pcjs-pcsig8a-disks.git disks/pcsig8a-disks
-        git clone https://github.com/jeffpar/pcjs-pcsig8b-disks.git disks/pcsig8b-disks
-        git clone https://github.com/jeffpar/pcjs-docs.git documents
+
       
     - name: Build with Jekyll (local disks enabled)
       run: |
