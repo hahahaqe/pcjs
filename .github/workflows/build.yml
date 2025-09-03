@@ -23,13 +23,12 @@ jobs:
     
     - name: Clone disks repos
       run: |
-        git clone https://github.com/jeffpar/pcjs-diskettes.git disks
-        git clone https://github.com/jeffpar/pcjs-gamedisks.git disks
-        git clone https://github.com/jeffpar/pcjs-miscdisks.git disks
-        git clone https://github.com/jeffpar/pcjs-pcsigdisks.git disks
-        git clone https://github.com/jeffpar/pcjs-pcsig8a-disks.git disks/pcsig8a-disks
-        git clone https://github.com/jeffpar/pcjs-pcsig8b-disks.git disks/pcsig8b-disks
         git clone https://github.com/jeffpar/pcjs-docs.git documents
+        cd disks
+        git clone https://github.com/jeffpar/pcjs-diskettes.git diskettes
+        git clone https://github.com/jeffpar/pcjs-gamedisks.git gamedisks
+        git clone https://github.com/jeffpar/pcjs-miscdisks.git miscdisks
+        git clone https://github.com/jeffpar/pcjs-pcsigdisks.git pcsigdisks
       
     - name: Build with Jekyll (local disks enabled)
       run: |
