@@ -1,0 +1,30 @@
+name: Build PCjs Static Site
+
+on:
+  workflow_dispatch:  # This allows you to run it manually
+  push:              # This runs it when you make changes
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Setup Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '3.1'
+        bundler-cache: true
+        
+    - name: Build with Jekyll
+      run: |
+        bundle exec jekyll build
+        
+    - name: Upload built site
+      uses: actions/upload-artifact@v4
+      with:
+        name: pcjs-static-site
+        path: _site/
+        retention-days: 30
