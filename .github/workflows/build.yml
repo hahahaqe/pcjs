@@ -23,12 +23,6 @@ jobs:
     
     - name: Clone disks repos
       run: |
-        cd documents
-        git init
-        git remote add origin https://github.com/jeffpar/pcjs-docs.git
-        git fetch
-        git pull origin main
-        cd ..
         cd disks
         git clone https://github.com/jeffpar/pcjs-diskettes.git diskettes
         git clone https://github.com/jeffpar/pcjs-gamedisks.git gamedisks
