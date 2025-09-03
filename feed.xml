@@ -4,10 +4,10 @@
     <title>PCjs Machines</title>
     <description>PCjs offers a variety of online machine emulators written in JavaScript. Run DOS, Windows, OS/2 and other vintage PC applications in a web browser on your desktop computer, iPhone, or iPad. An assortment of microcomputers, minicomputers, terminals, programmable calculators, and arcade machines are also available, along with an archive of historical software and documentation.
 </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 03 Sep 2025 06:33:57 +0000</pubDate>
-    <lastBuildDate>Wed, 03 Sep 2025 06:33:57 +0000</lastBuildDate>
+    <link>http://localhost:8000/</link>
+    <atom:link href="http://localhost:8000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 03 Sep 2025 07:22:37 +0000</pubDate>
+    <lastBuildDate>Wed, 03 Sep 2025 07:22:37 +0000</lastBuildDate>
     <generator>Jekyll v3.10.0</generator>
     
       <item>
@@ -2254,8 +2254,8 @@ PKZIP/PKUNZIP from version 2.04c.
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Sat, 05 Apr 2025 10:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/2025/04/05/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2025/04/05/</guid>
+        <link>http://localhost:8000/blog/2025/04/05/</link>
+        <guid isPermaLink="true">http://localhost:8000/blog/2025/04/05/</guid>
         
         
         <category>blog</category>
@@ -2749,8 +2749,8 @@ install d:\tools\dos\50.com
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 </description>
         <pubDate>Wed, 04 Oct 2023 08:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/2023/10/04/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2023/10/04/</guid>
+        <link>http://localhost:8000/blog/2023/10/04/</link>
+        <guid isPermaLink="true">http://localhost:8000/blog/2023/10/04/</guid>
         
         
         <category>blog</category>
@@ -3377,8 +3377,8 @@ FATSz = (TMPVal1 + (TmpVal2 – 1)) / TmpVal2;
 &lt;p&gt;Have fun!&lt;/p&gt;
 </description>
         <pubDate>Tue, 05 Sep 2023 10:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/2023/09/05/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2023/09/05/</guid>
+        <link>http://localhost:8000/blog/2023/09/05/</link>
+        <guid isPermaLink="true">http://localhost:8000/blog/2023/09/05/</guid>
         
         
         <category>blog</category>
@@ -3547,8 +3547,8 @@ $ pc.js ibm5170 --target=20M --fat=12 --maxfiles=2048 dir
 &lt;p&gt;The crash is ironic, because it’s identical to the boot sector crash that was finally &lt;em&gt;fixed&lt;/em&gt; in this same release, except that instead of trashing itself with an entire (partially used) track, the code trashes itself with an entire (partially used) cluster.&lt;/p&gt;
 </description>
         <pubDate>Thu, 10 Aug 2023 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/2023/08/10/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2023/08/10/</guid>
+        <link>http://localhost:8000/blog/2023/08/10/</link>
+        <guid isPermaLink="true">http://localhost:8000/blog/2023/08/10/</guid>
         
         
         <category>blog</category>
@@ -4032,8 +4032,8 @@ LU       EXE    22528   3-25-84   1:48a
 &lt;p&gt;There are currently no options to change the default drive type (10Mb) but it is possible to specify alternate machine configurations &lt;em&gt;and&lt;/em&gt; alternate operating systems to install on the drive.  Run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;pc.js --help&lt;/code&gt; from the command-line for some quick guidance, and check the &lt;a href=&quot;/tools/pc/&quot;&gt;PC.js&lt;/a&gt; page for more detailed information – both will be updated as the utility evolves.&lt;/p&gt;
 </description>
         <pubDate>Sat, 15 Jul 2023 10:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/2023/07/15/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2023/07/15/</guid>
+        <link>http://localhost:8000/blog/2023/07/15/</link>
+        <guid isPermaLink="true">http://localhost:8000/blog/2023/07/15/</guid>
         
         
         <category>blog</category>
@@ -6580,8 +6580,8 @@ LU       EXE    22528   3-25-84   1:48a
 &lt;a href=&quot;/software/pcx86/sw/misc/pcsig/?automount={A:&amp;quot;None&amp;quot;,B:&amp;quot;PC-SIG%20Library%20Disk%20%230448&amp;quot;}&quot;&gt;ZYLGIS.BAS (1983)&lt;/a&gt;,&lt;/p&gt;
 </description>
         <pubDate>Fri, 05 May 2023 10:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/2023/05/05/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2023/05/05/</guid>
+        <link>http://localhost:8000/blog/2023/05/05/</link>
+        <guid isPermaLink="true">http://localhost:8000/blog/2023/05/05/</guid>
         
         
         <category>blog</category>
@@ -6801,8 +6801,8 @@ GO       TXT      463   7-02-87  11:29a
 &lt;p&gt;Last but not least, I’ve also added a &lt;a href=&quot;/tools/basx/&quot;&gt;BASIC Conversion Utility&lt;/a&gt; page that loads &lt;a href=&quot;https://github.com/jeffpar/pcjs/tree/master/tools/modules/basfile.js&quot;&gt;BASFile.js&lt;/a&gt; in your web browser.  It should be able to convert any old IBM PC BASIC file to plain text, but again, if you run into any interesting discrepancies, &lt;a href=&quot;mailto:Jeff@pcjs.org&quot;&gt;let me know&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Thu, 06 Apr 2023 10:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/2023/04/06/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2023/04/06/</guid>
+        <link>http://localhost:8000/blog/2023/04/06/</link>
+        <guid isPermaLink="true">http://localhost:8000/blog/2023/04/06/</guid>
         
         
         <category>blog</category>
@@ -7346,8 +7346,8 @@ Testing: CUE.C         Warning!  file CUE.C fails CRC check.
 &lt;p&gt;Anyway, to celebrate, I’ve added the entire contents of that weird &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;CUE.ARC&lt;/code&gt; to a new &lt;a href=&quot;https://github.com/jeffpar/cue&quot;&gt;Cue&lt;/a&gt; repository, so that everyone can enjoy all that crusty, now-useless code from 1988.  &lt;strong&gt;Cue&lt;/strong&gt; was a popular in-house OS/2 utility back in the day, but like so many other tools we used to use at Microsoft (&lt;strong&gt;Z&lt;/strong&gt;, &lt;strong&gt;WZMAIL&lt;/strong&gt;, etc), it’s faded into oblivion.&lt;/p&gt;
 </description>
         <pubDate>Tue, 07 Mar 2023 10:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/2023/03/07/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2023/03/07/</guid>
+        <link>http://localhost:8000/blog/2023/03/07/</link>
+        <guid isPermaLink="true">http://localhost:8000/blog/2023/03/07/</guid>
         
         
         <category>blog</category>
@@ -7432,8 +7432,8 @@ Stephen Jones
 &lt;p&gt;The focus of my post was the entire museum and all the in-person interactive programs that it used to offer, but it is nice to know that there are still some beating hearts and spinning disks in the bowels of the building, so perhaps all hope is not lost.&lt;/p&gt;
 </description>
         <pubDate>Thu, 16 Feb 2023 11:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/2023/02/16/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2023/02/16/</guid>
+        <link>http://localhost:8000/blog/2023/02/16/</link>
+        <guid isPermaLink="true">http://localhost:8000/blog/2023/02/16/</guid>
         
         
         <category>blog</category>
@@ -7692,8 +7692,8 @@ interest in doing that myself.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/blog/images/mmf-adventure3.jpg&quot; alt=&quot;MMF Adventure&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 30 Jan 2023 12:00:00 +0000</pubDate>
-        <link>http://localhost:4000/blog/2023/01/30/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2023/01/30/</guid>
+        <link>http://localhost:8000/blog/2023/01/30/</link>
+        <guid isPermaLink="true">http://localhost:8000/blog/2023/01/30/</guid>
         
         
         <category>blog</category>
