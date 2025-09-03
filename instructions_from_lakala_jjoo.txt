@@ -1,0 +1,50 @@
+change the file _config.yml and remove the "  - /disks" line and add the "  - vendor" line at the "exclude:". at the other file called "_developer.yml" change the line from "localdisks: false" to "localdisks: true" and also remove "  - /disks" and also add "  - vendor". make sure to do all that into github and make a build file ("/.github/workflows/build.yml") and write this inside:
+name: Build PCjs Static Site
+
+on:
+  workflow_dispatch:
+  push:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+      
+    - name: Setup Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '3.1'
+        bundler-cache: true
+        
+    - name: Install dependencies
+      run: bundle install
+    
+    - name: Clone disks repos
+      run: |
+        mkdir disks
+        cd disks
+        git clone https://github.com/jeffpar/pcjs-diskettes.git diskettes
+        git clone https://github.com/jeffpar/pcjs-gamedisks.git gamedisks
+        git clone https://github.com/jeffpar/pcjs-miscdisks.git miscdisks
+        git clone https://github.com/jeffpar/pcjs-pcsigdisks.git pcsigdisks
+      
+    - name: Build with Jekyll (local disks enabled)
+      run: |
+        bundle exec jekyll build --config _config.yml,_developer.yml
+
+    # Optional: Upload built site artifact
+    - name: Upload built site
+      uses: actions/upload-artifact@v4
+      with:
+        name: pcjs
+        path: _site/
+        retention-days: 30
+        
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./_site
