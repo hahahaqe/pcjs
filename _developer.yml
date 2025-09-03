@@ -24,7 +24,7 @@ url: "http://localhost:4000"
 # information.
 #
 pcjs:
-  localdisks: false
+  localdisks: true
   unbundled: true
   uncompiled: true
 
@@ -42,7 +42,6 @@ exclude:
   - /package*.json
   - /.history
   - /.vscode
-  - /disks
   - /node_modules
   - /software/pcx86/sys/dos/microsoft/1.25/src
   - /software/pcx86/sys/dos/microsoft/2.11/src
