@@ -1,0 +1,236 @@
+[
+  {
+    "@title": "TI-57 Programmable Calculator (1978)",
+    "@permalink": "/machines/ti/ti57/",
+    "@preview": ".png",
+    "@tags": "home"
+  },
+  {
+    "@title": "Ohio Scientific Challenger 1P (1978)",
+    "@permalink": "/machines/osi/c1p/",
+    "@preview": ".png",
+    "@tags": "home"
+  },
+  {
+    "@title": "Space Invaders (1978)",
+    "@permalink": "/machines/arcade/invaders/",
+    "@preview": ".png",
+    "@tags": "home"
+  },
+  {
+    "@title": "Microsoft Adventure (1981)",
+    "@permalink": "/software/pcx86/game/microsoft/adventure/",
+    "@preview": ".png",
+    "@tags": "home,pcx86,game"
+  },
+  {
+    "@title": "DONKEY.BAS from PC DOS 1.00 (1981)",
+    "@permalink": "/software/pcx86/app/ibm/basic/1.00/donkey/",
+    "@preview": ".png",
+    "@tags": "home,pcx86,game"
+  },
+  {
+    "@title": "VisiCalc (1981)",
+    "@permalink": "/software/pcx86/app/other/visicalc/1981/",
+    "@preview": ".png",
+    "@tags": "home,pcx86"
+  },
+  {
+    "@title": "Multiplan 1.0 (1982)",
+    "@permalink": "/software/pcx86/app/ibm/multiplan/1.00/",
+    "@preview": ".png",
+    "@tags": "home,pcx86"
+  },
+  {
+    "@title": "Executive Suite (1982)",
+    "@permalink": "/software/pcx86/game/other/1982/esuite/",
+    "@preview": ".png",
+    "@tags": "home,pcx86,game"
+  },
+  {
+    "@title": "PDP-11/70 with RT-11 4.0 (1982)",
+    "@permalink": "/machines/dec/pdp11/1170/panel/debugger/rt11/",
+    "@preview": ".png",
+    "@tags": "home"
+  },
+  {
+    "@title": "CP/M-86 (1983)",
+    "@permalink": "/software/pcx86/sys/cpm/1.1b/",
+    "@preview": ".png",
+    "@tags": "home,pcx86"
+  },
+  {
+    "@title": "COMPAQ Portable with Monochrome Graphics (1983)",
+    "@permalink": "/machines/pcx86/compaq/portable/vdu/",
+    "@preview": ".png",
+    "@tags": "home,pcx86"
+  },
+  {
+    "@title": "Zork I: The Great Underground Empire",
+    "@permalink": "/software/pcx86/game/infocom/zork1/",
+    "@preview": ".png",
+    "@tags": "home,pcx86,game"
+  },
+  {
+    "@title": "Exploring the IBM Personal Computer (1983)",
+    "@permalink": "/software/pcx86/demo/ibm/exploring/1.00-MDA/",
+    "@preview": ".png",
+    "@tags": "home,pcx86"
+  },
+  {
+    "@title": "Adventures in Math (1983)",
+    "@permalink": "/software/pcx86/game/other/1983/adventmath/",
+    "@preview": ".png",
+    "@tags": "home,pcx86"
+  },
+  {
+    "@title": "Lotus 1-2-3 (1983)",
+    "@permalink": "/software/pcx86/app/lotus/123/1a/",
+    "@preview": ".png",
+    "@tags": "home,pcx86"
+  },
+  {
+    "@title": "Norton Utilities 2.0 (1983)",
+    "@permalink": "/software/pcx86/util/norton/2.00/",
+    "@preview": ".png",
+    "@tags": "home,pcx86"
+  },
+  {
+    "@title": "PC Disk Magazine (1983)",
+    "@permalink": "/software/pcx86/sw/magazines/pcdm/",
+    "@preview": ".png",
+    "@tags": "shareware,pcx86"
+  },
+  {
+    "@title": "Fantasy Land EGA Demo (1984)",
+    "@permalink": "/software/pcx86/demo/ibm/ega/",
+    "@preview": ".png",
+    "@tags": "home,pcx86"
+  },
+  {
+    "@title": "Microsoft Word 1.15 (1984)",
+    "@permalink": "/software/pcx86/app/microsoft/word/1.15/",
+    "@preview": ".png",
+    "@tags": "home,pcx86"
+  },
+  {
+    "@title": "Nine Princes in Amber (1985)",
+    "@permalink": "/software/pcx86/game/other/1985/nine_princes/",
+    "@preview": ".png",
+    "@tags": "home,pcx86,game"
+  },
+  {
+    "@title": "Rogue (1985)",
+    "@permalink": "/software/pcx86/game/other/1985/rogue/",
+    "@preview": ".png",
+    "@tags": "home,pcx86,game"
+  },
+  {
+    "@title": "Microsoft Windows 1.0 (&quot;Premiere Edition&quot;)",
+    "@permalink": "/software/pcx86/sys/windows/1.00/",
+    "@preview": ".png",
+    "@tags": "home,pcx86,sys,windows"
+  },
+  {
+    "@title": "Microsoft Windows 1.1 on CGA (1985)",
+    "@permalink": "/software/pcx86/sys/windows/1.01/cga/",
+    "@preview": ".png",
+    "@tags": "home,pcx86,sys,windows"
+  },
+  {
+    "@title": "Microsoft Windows 1.1 on EGA (1985)",
+    "@permalink": "/software/pcx86/sys/windows/1.01/ega/",
+    "@preview": ".png",
+    "@tags": "home,pcx86,sys,windows"
+  },
+  {
+    "@title": "Balance of Power (1985)",
+    "@permalink": "/software/pcx86/game/other/1985/balance_of_power/",
+    "@preview": ".png",
+    "@tags": "home,pcx86,game,windows"
+  },
+  {
+    "@title": "PC Magazine Utilities (1987)",
+    "@permalink": "/software/pcx86/sw/magazines/pcm/",
+    "@preview": ".png",
+    "@tags": "shareware,pcx86"
+  },
+  {
+    "@title": "IBM OS/2 1.0 (1987)",
+    "@permalink": "/software/pcx86/sys/os2/ibm/1.0/",
+    "@preview": ".png",
+    "@tags": "home,pcx86,sys,os2"
+  },
+  {
+    "@title": "VGA Black Book Tests (by Michael Abrash)",
+    "@permalink": "/software/pcx86/test/vga/blackbook/",
+    "@preview": "/software/pcx86/test/vga/blackbook/L23-1/images/thumbnail.png",
+    "@tags": "home,pcx86,vga"
+  },
+  {
+    "@title": "Microsoft Windows/386 2.0 (1987)",
+    "@permalink": "/software/pcx86/sys/windows/2.0x/",
+    "@preview": ".png",
+    "@tags": "home,pcx86,sys,windows,win2x-win95"
+  },
+  {
+    "@title": "Microsoft QuickPascal 1.00 (1989)",
+    "@permalink": "/software/pcx86/lang/microsoft/pascal/quickpascal/1.00/",
+    "@preview": ".png",
+    "@tags": "home,pcx86,lang"
+  },
+  {
+    "@title": "PC-SIG Diskette Library (1990)",
+    "@permalink": "/software/pcx86/sw/misc/pcsig/",
+    "@preview": ".png",
+    "@tags": "shareware,pcx86"
+  },
+  {
+    "@title": "Microsoft Windows 3.0 (1990)",
+    "@permalink": "/software/pcx86/sys/windows/3.00/",
+    "@preview": ".png",
+    "@tags": "home,pcx86,sys,windows,win2x-win95"
+  },
+  {
+    "@title": "Life & Death II: The Brain (1990)",
+    "@permalink": "/software/pcx86/game/other/1990/life_and_death_ii/",
+    "@preview": ".png",
+    "@tags": "home,pcx86,game"
+  },
+  {
+    "@title": "The Oregon Trail (1991)",
+    "@permalink": "/software/pcx86/game/other/1991/oregon_trail/",
+    "@preview": ".png",
+    "@tags": "home,pcx86,game"
+  },
+  {
+    "@title": "Commander Keen (1991)",
+    "@permalink": "/software/pcx86/game/id/commander_keen/",
+    "@preview": ".png",
+    "@tags": "home,pcx86,game"
+  },
+  {
+    "@title": "Wolfenstein 3D (1992)",
+    "@permalink": "/software/pcx86/game/id/wolf3d/",
+    "@preview": ".png",
+    "@tags": "home,pcx86,game"
+  },
+  {
+    "@title": "Dune II (1992)",
+    "@permalink": "/software/pcx86/game/other/1992/dune2/",
+    "@preview": ".png",
+    "@tags": "home,pcx86,game"
+  },
+  {
+    "@title": "Microsoft Windows 3.1 (1992)",
+    "@permalink": "/software/pcx86/sys/windows/3.10/",
+    "@preview": ".png",
+    "@tags": "home,pcx86,sys,windows,win2x-win95"
+  },
+  {
+    "@title": "Microsoft Windows 95 (1995)",
+    "@permalink": "/software/pcx86/sys/windows/win95/4.00.950/",
+    "@preview": ".png",
+    "@tags": "home,pcx86,sys,windows,win2x-win95"
+  }
+]

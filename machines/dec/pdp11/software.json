@@ -1,0 +1,214 @@
+{
+  "disks": {
+    "@title": "Disks",
+    "rk03": {
+      "@title": "RK03",
+      "@versions": {
+        "rt11v4": {
+          "@title": "RT-11 4.0"
+        }
+      }
+    }
+  },
+  "tapes": {
+    "@title": "Tapes",
+    "basic": {
+      "@title": "BASIC",
+      "@versions": {
+        "": {
+          "@title": "BASIC (Single User)",
+          "@media": [
+            {
+              "@tape": "DEC-11-AJPB-PB.json"
+            }
+          ]
+        }
+      }
+    },
+    "diag": {
+      "@title": "Diagnostics",
+      "@products": {
+        "d0aa": {
+          "@title": "D0AA",
+          "@desc": "D0AA: TEST 1 - BRANCH",
+          "@permalink": "#",
+          "@media": [
+            {
+              "@tape": "MAINDEC-11-D0AA-PB.json"
+            }
+          ]
+        },
+        "d0ba": {
+          "@title": "D0BA",
+          "@desc": "D0BA: TEST 2 - CON BRANCH",
+          "@permalink": "#",
+          "@media": [
+            {
+              "@tape": "MAINDEC-11-D0BA-PB.json"
+            }
+          ]
+        },
+        "d0ca": {
+          "@title": "D0CA",
+          "@desc": "D0CA: TEST 3 - UNARY",
+          "@permalink": "#",
+          "@media": [
+            {
+              "@tape": "MAINDEC-11-D0CA-PB.json"
+            }
+          ]
+        },
+        "d0da": {
+          "@title": "D0DA",
+          "@desc": "D0DA: TEST 4 - UNARY + BINARY",
+          "@permalink": "#",
+          "@media": [
+            {
+              "@tape": "MAINDEC-11-D0DA-PB.json"
+            }
+          ]
+        },
+        "d0ea": {
+          "@title": "D0EA",
+          "@desc": "D0EA: TEST 5 - ROTATE SHIFT",
+          "@permalink": "#",
+          "@media": [
+            {
+              "@tape": "MAINDEC-11-D0EA-PB.json"
+            }
+          ]
+        },
+        "d0fa": {
+          "@title": "D0FA",
+          "@desc": "D0FA: TEST 6 - COMPARE",
+          "@permalink": "#",
+          "@media": [
+            {
+              "@tape": "MAINDEC-11-D0FA-PB.json"
+            }
+          ]
+        },
+        "d0ga": {
+          "@title": "D0GA",
+          "@desc": "D0GA: TEST 7 - COMPARE NOT",
+          "@permalink": "#",
+          "@media": [
+            {
+              "@tape": "MAINDEC-11-D0GA-PB.json"
+            }
+          ]
+        },
+        "d0ha": {
+          "@title": "D0HA",
+          "@desc": "D0HA: TEST 8 - MOVE",
+          "@permalink": "#",
+          "@media": [
+            {
+              "@tape": "MAINDEC-11-D0HA-PB.json"
+            }
+          ]
+        },
+        "d0ia": {
+          "@title": "D0IA",
+          "@desc": "D0IA: TEST 9 - BIS, BIC + BIT",
+          "@permalink": "#",
+          "@media": [
+            {
+              "@tape": "MAINDEC-11-D0IA-PB.json"
+            }
+          ]
+        },
+        "d0ja": {
+          "@title": "D0JA",
+          "@desc": "D0JA: TEST 10 - ADD",
+          "@permalink": "#",
+          "@media": [
+            {
+              "@tape": "MAINDEC-11-D0JA-PB.json"
+            }
+          ]
+        },
+        "d0ka": {
+          "@title": "D0KA",
+          "@desc": "D0KA: TEST 11 - SUBTRACT",
+          "@permalink": "#",
+          "@media": [
+            {
+              "@tape": "MAINDEC-11-D0KA-PB.json"
+            }
+          ]
+        },
+        "d0la": {
+          "@title": "D0LA",
+          "@desc": "D0LA: TEST 12 - JUMP",
+          "@permalink": "#",
+          "@media": [
+            {
+              "@tape": "MAINDEC-11-D0LA-PB.json"
+            }
+          ]
+        },
+        "d0ma": {
+          "@title": "D0MA",
+          "@desc": "D0MA: TEST 13 - JSR, RTS, RTI",
+          "@permalink": "#",
+          "@media": [
+            {
+              "@tape": "MAINDEC-11-D0MA-PB.json"
+            }
+          ]
+        },
+        "d0na": {
+          "@title": "D0NA",
+          "@desc": "D0NA: TEST 14A - TRAP TEST",
+          "@permalink": "#",
+          "@media": [
+            {
+              "@tape": "MAINDEC-11-D0NA-PB.json"
+            }
+          ]
+        },
+        "d0nb": {
+          "@title": "D0NB",
+          "@desc": "D0NB: TEST 14B - TRAP TEST",
+          "@permalink": "#",
+          "@media": [
+            {
+              "@tape": "MAINDEC-11-D0NB-PB.json"
+            }
+          ]
+        },
+        "d0nc": {
+          "@title": "D0NC",
+          "@desc": "D0NC: TEST 14C - TRAP TEST",
+          "@permalink": "#",
+          "@media": [
+            {
+              "@tape": "MAINDEC-11-D0NC-PB.json"
+            }
+          ]
+        },
+        "d0oa": {
+          "@title": "D0OA",
+          "@desc": "D0OA: TEST 15 - CPU EXERCISER",
+          "@permalink": "#",
+          "@media": [
+            {
+              "@tape": "MAINDEC-11-D0OA-PB.json"
+            }
+          ]
+        },
+        "deqkc": {
+          "@title": "DEQKC",
+          "@desc": "DEQKC: 11/70 INSTRUCTION EXERCISER",
+          "@permalink": "#",
+          "@media": [
+            {
+              "@tape": "MAINDEC-11-DEQKC-B1-PB.json"
+            }
+          ]
+        }
+      }
+    }
+  }
+}
