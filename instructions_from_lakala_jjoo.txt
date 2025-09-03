@@ -1,4 +1,4 @@
-change the file _config.yml and remove the "  - /disks" line and add the "  - vendor" line at the "exclude:". at the other file called "_developer.yml" change the line from "localdisks: false" to "localdisks: true" and also remove "  - /disks" and also add "  - vendor". you will also need to download the hardisks from "https://harddisks.pcjs.org". make sure to do all that into github and make a build file ("/.github/workflows/build.yml") and write this inside:
+change the file _config.yml and remove the "  - /disks" line and add the "  - vendor" line at the "exclude:". at the other file called "_developer.yml" change the line from "localdisks: false" to "localdisks: true" and also remove "  - /disks" and also add "  - vendor". you will also need to download the hardisks from "https://harddisks.pcjs.org". i also downloaded the documentation from "https://github.com/jeffpar/pcjs-docs" and put the files inside the "documents" folder of pcjs. make sure to do all that into github and make a build file ("/.github/workflows/build.yml") and write this inside:
 name: Build PCjs Static Site
 
 on:
