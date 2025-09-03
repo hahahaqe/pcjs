@@ -38,7 +38,7 @@ jobs:
     - name: Upload built site
       uses: actions/upload-artifact@v4
       with:
-        name: pcjs-static-site
+        name: pcjs
         path: _site/
         retention-days: 30
         
