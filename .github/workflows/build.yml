@@ -23,6 +23,7 @@ jobs:
     
     - name: Clone disks repos
       run: |
+        mkdir disks
         cd disks
         git clone https://github.com/jeffpar/pcjs-diskettes.git diskettes
         git clone https://github.com/jeffpar/pcjs-gamedisks.git gamedisks
